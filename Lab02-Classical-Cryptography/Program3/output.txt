@@ -1,0 +1,2 @@
+hexadecimal integers: 569a
+Base64_str: Vpo=

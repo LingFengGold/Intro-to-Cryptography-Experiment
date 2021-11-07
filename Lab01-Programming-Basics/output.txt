@@ -1,0 +1,6 @@
+byte_array: b'\xde\xad\xbe\xef'
+decimal integer: 222 173 190 239 
+hexadecimal integer: 0xde 0xad 0xbe 0xef 
+se64_str: b'3q2+7w=='
+
+text_str: deadbeef
