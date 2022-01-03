@@ -1,0 +1,7 @@
+User created successfully.
+
+User logged in successfully.
+
+Password verification failed. Can not logged in.
+
+Error: User lingfeng already exists.

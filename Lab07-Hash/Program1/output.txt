@@ -1,0 +1,6 @@
+MD5 digest of the input:
+79054025255fb1a26e4bc422aef54eb4
+b'eQVAJSVfsaJuS8QirvVOtA=='
+SHA256 digest of the input:
+b9fef2a8fc93b05e7701e97196fda6c4fbeea25ff8e64fdfee7015eca8fa617d
+b'uf7yqPyTsF53Aelxlv2mxPvuol/45k/f7nAV7Kj6YX0='

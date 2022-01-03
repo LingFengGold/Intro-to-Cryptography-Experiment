@@ -1,0 +1,15 @@
+Input command:R
+Input username:lingfeng
+Input password:123
+
+Input command:L
+Input username:lingfeng
+Input password:123
+
+Input command:L
+Input username:lingfeng
+Input password:321
+
+Input command:R
+Input username:lingfeng
+Input password:123
